@@ -82,20 +82,20 @@ hr {
 }
 
 .skill-row {
-  width: 30%;
+  width: 35%;
   margin: 200px auto;
   text-align: left;
   line-height: 2;
   color: #40514E;
 }
 .work {
-  width: 30%;
+  width: 25%;
   float: right;
   margin-left: 30px;
 
 }
 .computer {
-  width: 30%;
+  width: 25%;
   float: left;
   margin-right: 30px;
 }
