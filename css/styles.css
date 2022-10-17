@@ -71,7 +71,7 @@ hr {
 }
 
 .middle-container {
-  width: 30%;
+  width: 50%;
   margin: 50px auto;
 }
 
@@ -82,7 +82,7 @@ hr {
 }
 
 .skill-row {
-  width: 35%;
+  width: 50%;
   margin: 200px auto;
   text-align: left;
   line-height: 2;
