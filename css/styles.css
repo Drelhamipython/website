@@ -55,7 +55,10 @@ hr {
   padding-top: 250px;
 
 }
-
+.profile {
+  width: 50%;
+  margin: 50px auto;
+}
 
 .top-cloud {
   position: absolute;
@@ -130,7 +133,7 @@ margin-bottom: 100px;
 }
 
 .contact-message {
-  width: 30%;
+  width: 40%;
   margin: 20px auto 100px auto;
 
 }
