@@ -55,10 +55,6 @@ hr {
   padding-top: 250px;
 
 }
-.profile {
-  width: 70%;
-  margin: 50px auto;
-}
 
 
 .top-cloud {
@@ -75,7 +71,7 @@ hr {
 }
 
 .middle-container {
-  width: 100%;
+  width: 50%;
   margin: 50px auto;
 }
 
