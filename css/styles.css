@@ -55,6 +55,11 @@ hr {
   padding-top: 250px;
 
 }
+.profile {
+  width: 50%;
+  margin: 50px auto;
+}
+
 
 .top-cloud {
   position: absolute;
