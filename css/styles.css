@@ -56,11 +56,8 @@ hr {
 
 }
  .profile {
-   width: 40%;
-   margin-left: 600px;
-   margin-right: 600px;
-
-
+    width: 40%;
+   margin: 50px auto;
  }
 
 .top-cloud {
