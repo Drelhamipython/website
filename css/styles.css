@@ -25,9 +25,7 @@ h3 {
 }
 
 p {
-  font-family: 'Cormorant Garamond', serif;
   font-family: 'Mitr', sans-serif;
-  font-family: 'Oxygen', sans-serif;
   font-size: 1.5rem;
   color: #4C6793;
   margin-bottom: 100px;
@@ -58,8 +56,8 @@ hr {
 
 }
  .profile {
-   margin-left: 100px;
-   margin-right: 100px;
+   margin-left: 200px;
+   margin-right: 200px;
 
 
  }
